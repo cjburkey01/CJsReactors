@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "cjsreactors:blocks/reactor_casing",
+    "front": "cjsreactors:blocks/reactor_controller_front",
+    "side": "cjsreactors:blocks/reactor_casing"
+  }
+}

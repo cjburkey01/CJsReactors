@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "cjsreactors",
+    "name": "CJ's Reactors",
+    "description": "IC2-Inspired Reactors...In 3D!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/cjburkey01/cjsreactors",
+    "updateUrl": "",
+    "authorList": [
+      "CJ Burkey"
+    ],
+    "credits": "The Forge and FML guys, for making Forge and FML",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

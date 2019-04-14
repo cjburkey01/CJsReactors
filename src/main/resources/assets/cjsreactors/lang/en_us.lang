@@ -1,0 +1,5 @@
+tile.reactor_controller.name=Reactor Controller
+tile.reactor_casing.name=Reactor Casing
+tile.reactor_power_output.name=Reactor Power Output
+tile.reactor_fuel_input.name=Reactor Fuel Input
+tile.reactor_fuel_cell.name=Reactor Fuel Cell

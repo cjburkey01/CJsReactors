@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cjsreactors:reactor_controller"
+    },
+    "facing=south": {
+      "model": "cjsreactors:reactor_controller",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cjsreactors:reactor_controller",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "cjsreactors:reactor_controller",
+      "y": 90
+    }
+  }
+}
