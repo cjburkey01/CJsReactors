@@ -9,7 +9,7 @@ import net.minecraft.world.World;
 /**
  * Created by CJ Burkey on 2019/04/14
  */
-public final class BlockReactorPowerOutput extends BlockReactorBasicBlock implements ITileEntityProvider {
+public final class BlockReactorPowerOutput extends BlockReactorCasingBlock implements ITileEntityProvider {
 
     @Override
     @Nonnull

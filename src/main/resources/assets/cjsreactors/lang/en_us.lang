@@ -3,3 +3,13 @@ tile.reactor_casing.name=Reactor Casing
 tile.reactor_power_output.name=Reactor Power Output
 tile.reactor_fuel_input.name=Reactor Fuel Input
 tile.reactor_fuel_cell.name=Reactor Fuel Cell
+
+config.max_reactor_power_buffer=Maximum Reactor Power Buffer
+config.min_reactor_size=Minimum Reactor Size
+config.max_reactor_size=Maximum Reactor Size
+
+error.reactor_wrong_size=Invalid reactor size: %sx%sx%s
+error.controller_bad_placement=Invalid reactor controller placement at %s, %s, %s
+error.reactor_casing_wrong=Invalid reactor casing block at %s, %s, %s
+error.reactor_content_wrong=Invalid reactor content block at %s, %s, %s
+success.reactor_created=Created reactor with bounds %s, %s, %s to %s, %s, %s

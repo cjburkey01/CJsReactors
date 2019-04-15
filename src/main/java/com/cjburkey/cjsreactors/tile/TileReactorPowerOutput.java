@@ -1,5 +1,6 @@
 package com.cjburkey.cjsreactors.tile;
 
+import com.cjburkey.cjsreactors.ModConfig;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 import net.minecraft.util.EnumFacing;
@@ -12,7 +13,6 @@ import net.minecraftforge.energy.IEnergyStorage;
  */
 public class TileReactorPowerOutput extends ReactorTile implements IEnergyStorage {
 
-    private final int bufferSize = 1024;
     private int bufferContents = 0;
 
     @Override
@@ -44,7 +44,7 @@ public class TileReactorPowerOutput extends ReactorTile implements IEnergyStorag
 
     @Override
     public int getMaxEnergyStored() {
-        return bufferSize;
+        return ModConfig.maxReactorPowerBuffer;
     }
 
     @Override

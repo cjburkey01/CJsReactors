@@ -10,7 +10,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 import static com.cjburkey.cjsreactors.ModInfo.*;
 
-@SuppressWarnings({"WeakerAccess", "unused"})
+@SuppressWarnings("unused")
 @Mod(modid = MODID, name = NAME, version = VERSION)
 public final class CJsReactors {
 

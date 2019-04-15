@@ -2,7 +2,7 @@
   {
     "modid": "cjsreactors",
     "name": "CJ's Reactors",
-    "description": "IC2-Inspired Reactors...In 3D!",
+    "description": "IC2/BigReactors-Inspired Reactors...In 3D!",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "https://github.com/cjburkey01/cjsreactors",
